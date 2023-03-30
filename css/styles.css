@@ -28,6 +28,10 @@ body {
 
 }
 
+.list{
+    list-style: none;
+}
+
 /* Header */
 
 .logo {
@@ -114,9 +118,10 @@ body {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
+    letter-spacing: 0.02em;
     text-decoration: none;
 
-    color: #2E2F42;
+    color: var(--headers-text-color);
 
 }
 
