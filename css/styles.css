@@ -7,10 +7,13 @@
 
     --helper-text: #8E8F99;
     --lightmode-bg: #F4F4FD;
+
+    --ligth-cl: #FFFFFF;
 }
 
 .body {
     color: var(--main-text-color);
+    background-color: var(--ligth-cl);
     text-decoration: none;
     list-style-type: none;
 
