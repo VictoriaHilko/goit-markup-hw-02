@@ -192,7 +192,7 @@ body {
 /* Team */
 
 .team {
-    background-color: #F4F4FD;
+    background-color:#F4F4FD;
 }
 
 .team-person {
@@ -203,7 +203,7 @@ body {
     letter-spacing: 0.02em;
 
     color: var(--headers-text-color);
-    background-color: #FFFFFF;
+    background-color:#FFFFFF;
 }
 
 .team-desc {
