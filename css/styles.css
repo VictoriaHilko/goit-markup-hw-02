@@ -195,7 +195,7 @@ body {
     background-color: #FFFFFF;
 }
 
-.team.team-person {
+.team-person {
 
     font-weight: 500;
     font-size: 20px;
@@ -203,6 +203,7 @@ body {
     letter-spacing: 0.02em;
 
     color: var(--headers-text-color);
+    background-color: #FFFFFF;
 }
 
 .team-desc {
