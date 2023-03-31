@@ -30,6 +30,7 @@ body {
 
 .list{
     list-style: none;
+    font-style: normal;
 }
 
 /* Header */
@@ -75,7 +76,9 @@ body {
 }
 
 .address-mail:hover,
-.address-tel:hover {
+.address-tel:hover,
+.address-mail:focus,
+.address-tel:focus  {
     color: var(--pressed-state);
 }
 
