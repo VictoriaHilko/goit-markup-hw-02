@@ -111,8 +111,7 @@ body {
 /* Lists */
 
 .list-item {
-    width: 48px;
-    height: 24px;
+    color: var(--headers-text-color);
 
     font-style: normal;
     font-weight: 500;
@@ -120,9 +119,6 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
     text-decoration: none;
-
-    color: var(--headers-text-color);
-
 }
 
 .list-item.current {
