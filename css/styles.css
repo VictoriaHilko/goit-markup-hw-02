@@ -30,7 +30,7 @@ body {
 
 }
 
-.list{
+.list {
     list-style: none;
     font-style: normal;
 }
@@ -77,7 +77,7 @@ body {
 }
 
 .address-item:hover,
-.address-item:focus{
+.address-item:focus {
     color: var(--pressed-state);
 }
 
@@ -111,6 +111,9 @@ body {
 }
 
 /* Lists */
+.current {
+    color: var(--pressed-state);
+}
 
 .list-item {
     font-style: normal;
@@ -121,10 +124,6 @@ body {
     color: var(--headers-text-color);
 }
 
-
-.current {
-    color: var(--pressed-state);
-}
 
 .list-item:hover,
 .list-item:focus {
@@ -164,7 +163,7 @@ body {
 }
 
 .hero-button:hover,
-.hero-button:focus{
+.hero-button:focus {
     background-color: #404BBF;
 }
 
