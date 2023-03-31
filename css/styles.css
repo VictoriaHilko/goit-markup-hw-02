@@ -189,17 +189,10 @@ body {
     color: var(--main-text-color);
 }
 
-
-/* Activity sction */
-
-.activity{
-
-}
-
 /* Team */
 
 .team {
-    background-color: var(--lightmode-bg);
+    background-color: #FFFFFF;
 }
 
 .team-person {
@@ -207,6 +200,7 @@ body {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
+    letter-spacing: 0.02em;
 
     color: var(--headers-text-color);
 }
