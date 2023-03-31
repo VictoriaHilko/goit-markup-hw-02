@@ -217,8 +217,7 @@ body {
 /* Prtfolio */
 
 .list-filter {
-    width: 116px;
-    height: 48px;
+    font-family: "Roboto", sans-serif;
 
     background: var(--lightmode-bg);
     /* CORNFLOWER */
@@ -231,6 +230,7 @@ body {
     line-height: 1.5;
     display: flex;
     letter-spacing: 0.04em;
+    cursor: pointer;
 
     color: var(--primary-brand);
 }
