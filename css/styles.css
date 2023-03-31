@@ -122,6 +122,10 @@ body {
     color: var(--headers-text-color);
 }
 
+.test{
+    color: var(--headers-text-color);
+}
+
 .list-item.current {
     color: var(--pressed-state);
 }
