@@ -85,7 +85,9 @@ body {
 
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.1;
+    line-height: 1.11;
+    text-align: center;
+    text-transform: capitalize;
 
     color: var(--headers-text-color);
 }
@@ -183,6 +185,13 @@ body {
     line-height: 1.5;
 
     color: var(--main-text-color);
+}
+
+
+/* Activity sction */
+
+.activity{
+
 }
 
 /* Team */
