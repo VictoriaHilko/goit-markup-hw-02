@@ -139,31 +139,33 @@ body {
 }
 
 .hero-title {
-
-    width: 496px;
-    height: 120px;
-    left: 472px;
-    top: 260px;
-
     font-style: normal;
     font-weight: 700;
     font-size: 56px;
-    line-height: 1.1;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
 
-    color: var(--lightmode-bg);
+    color: #ffffff;
 
 }
 
 .hero-button {
-
+    font-family: "Roboto", sans-serif;
     color: #FFFFFF;
     background: var(--primary-brand);
-
 
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
+
+    cursor: pointer;
+}
+
+.hero-button:hover,
+.hero-button:focus{
+    background-color: #404BBF;
 }
 
 /* About */
