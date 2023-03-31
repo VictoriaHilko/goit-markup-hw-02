@@ -26,7 +26,6 @@ body {
 .link {
     text-decoration: none;
     list-style-type: none;
-    color: var(--headers-text-color);
 
 }
 
