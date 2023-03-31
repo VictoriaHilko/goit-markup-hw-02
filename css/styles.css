@@ -111,9 +111,6 @@ body {
 }
 
 /* Lists */
-.current {
-    color: var(--pressed-state);
-}
 
 .list-item {
     font-style: normal;
@@ -122,6 +119,10 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--headers-text-color);
+}
+
+.current {
+    color: var(--pressed-state);
 }
 
 .list-item:hover,
