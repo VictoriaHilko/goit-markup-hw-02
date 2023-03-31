@@ -124,7 +124,6 @@ body {
     color: var(--headers-text-color);
 }
 
-
 .list-item:hover,
 .list-item:focus {
     color: var(--pressed-state);
