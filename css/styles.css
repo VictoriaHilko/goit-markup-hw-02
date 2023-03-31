@@ -124,7 +124,7 @@ body {
 }
 
 
-.list-item.current {
+.current {
     color: var(--pressed-state);
 }
 
